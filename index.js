@@ -1,2 +1,2 @@
-let name="vivek";
-console.log("Hello"+" "+name);
+let Name="vivek";
+console.log(`Hello ${Name}`);
